@@ -3,3 +3,6 @@
 .env.*.php
 .env.php
 .env
+/.idea
+/storage/database.sqlite
+/vendor
