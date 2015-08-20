@@ -6,3 +6,4 @@
 /.idea
 /storage/database.sqlite
 /vendor
+Homestead.yaml
