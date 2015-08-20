@@ -1,5 +1,5 @@
 <?php
 return[
-    'title' => 'Engine SevenFour Blog',
+    'title' => 'Engine SevenFour',
     'posts_per_page' => 5
 ];
