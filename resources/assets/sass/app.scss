@@ -1,0 +1,21 @@
+@import 'partials/colors';
+@import 'partials/headings';
+@import "partials/flash";
+
+.navbar-default, .navbar-brand {
+  background-color:#000000;
+  color:#ffffff;
+}
+
+.navbar-collapse.collapse {
+  padding-bottom:15px;
+}
+
+footer {
+  margin:1px solid #ffffff;
+  padding:15px;
+  background-color:#000000;
+  color: #ffffff;
+  font-size:0.7em;
+  text-align:center;
+}

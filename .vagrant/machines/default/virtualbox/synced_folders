@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/e74":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/e74","hostpath":"/Users/derekmartin/Documents/websites/e74","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/derekmartin/Documents/websites/e74","disabled":false}}}
