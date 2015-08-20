@@ -22,7 +22,7 @@
 	</div>
 
     <footer>
-        <div>Powered by Porpoises</div>
+        <div>Powered by Purpose</div>
         <div>Engine SevenFour is a subsidiary of rTraction Canada, Inc. &copy; Copyright 2015 rTraction Canada, Inc.</div>
         <div>The London Roundhouse, 240 Waterloo Street, London, On, N6B 2N4</div>
         <div>Proudly built in London, Ontario.</div>
